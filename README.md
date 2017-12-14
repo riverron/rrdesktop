@@ -1,4 +1,5 @@
 # rrdesktop
+[*r*on_*r*ivera_*d*esktop] :-P
 
 A Vagrant project with tools needed for development.
 
