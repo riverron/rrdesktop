@@ -1,5 +1,5 @@
 # rrdesktop
-[**r**on**r**ivera**d**esktop] :-P
+[**R**on**R**ivera**D**esktop] :-P
 
 A Vagrant project with tools needed for development.
 
@@ -8,3 +8,4 @@ This includes the following:
 * Terraform
 * AWS CLI
 * Ansible
+* Docker
