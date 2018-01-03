@@ -20,6 +20,7 @@ if [ ${REDHAT_BASED} ] ; then
 else 
   apt-get update
   apt-get -y install docker.io ansible unzip
+  apt-get -y install qemu qemu-user-static binfmt-support apache2-utils
 fi
 # add docker privileges
 usermod -G docker ubuntu
